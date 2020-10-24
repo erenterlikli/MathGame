@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\bin\Debug\DortIslemTahmin.exe.config
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\bin\Debug\DortIslemTahmin.exe
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\bin\Debug\DortIslemTahmin.pdb
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\obj\Debug\DortIslemTahmin.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\obj\Debug\DortIslemTahmin.Form1.resources
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\obj\Debug\DortIslemTahmin.Properties.Resources.resources
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\obj\Debug\DortIslemTahmin.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\obj\Debug\DortIslemTahmin.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\obj\Debug\DortIslemTahmin.exe
+C:\Users\Eren\source\repos\DortIslemTahmin\DortIslemTahmin\obj\Debug\DortIslemTahmin.pdb
